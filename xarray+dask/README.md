@@ -21,7 +21,7 @@ Topics:
  - Quick plots
  - Saving to NetCDF
 
- - [Slides]()
+ - [Slides](https://docs.google.com/presentation/d/1RwgEeQFmX8Fvd_lFXxD7v9_pe5xgw9LDcOn92MTbw5k/edit?usp=sharing)
  - [Exercises]()
 
 ## Part 2: Finding extreme events
@@ -34,5 +34,5 @@ Topics:
  - Creating climatologies
  - Rolling windows and custom filters
 
- - [Slides]()
+ - [Slides](https://docs.google.com/presentation/d/1RwgEeQFmX8Fvd_lFXxD7v9_pe5xgw9LDcOn92MTbw5k/edit?usp=sharing)
  - [Exercises]()
